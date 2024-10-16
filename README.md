@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @amandacoddington
-- 👀 I’m interested in neuroscience & data
-- 🌱 I’m a data analyst and student getting my B.S. in Psychology at Purdue University
-- 💞️ I’m looking to collaborate on projects that will help me enhance my learning of data analytics 
+- Hi, I’m @amandacoddington
+- I’m a data analyst with a degree in Psychology from Purdue University
+- I enjoy combining my love of data with my love of all things mental health
+ 
 
 
 <!---
